@@ -263,7 +263,7 @@ audio.addEventListener("ended", () => {
 pauseSong();
 setPlayerDisplay();
 highlightCurrentSong();
-setPlaybuttonAccessibleText();
+setPlayButtonAccessibleText();
 
     }
 });
